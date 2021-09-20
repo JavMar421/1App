@@ -16,6 +16,5 @@ class MainActivity : AppCompatActivity() {
         // v valid d debug i important
         // w warning e error
         Toast.makeText(this, getString(R.string.hello), Toast.LENGTH_LONG).show()
-
     }
 }
