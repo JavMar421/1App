@@ -2,4 +2,10 @@
     <string name="app_name">1 App</string>
     <string name="hello">hello</string>
     <string name="hello_world">hello world</string>
+    <string name="asunto">Asunto</string>
+    <string name="contenido">Contenido</string>
+    <string name="fecha">Fecha</string>
+    <string name="estrellita">Estrellita</string>
+    <string name="back">BACK</string>
+    <string name="continue">CONTINUE</string>
 </resources>
