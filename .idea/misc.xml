@@ -4,10 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/AlumnoM/AndroidStudioProjects/1App/app/src/main/res/layout-land/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/AlumnoM/AndroidStudioProjects/1App/app/src/main/res/layout-land/constraint_text.xml" value="0.33" />
         <entry key="..\:/Users/AlumnoM/AndroidStudioProjects/1App/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/AlumnoM/AndroidStudioProjects/1App/app/src/main/res/layout/activity_main_entrega.xml" value="0.3596014492753623" />
+        <entry key="..\:/Users/AlumnoM/AndroidStudioProjects/1App/app/src/main/res/layout/constraint_text.xml" value="0.5" />
         <entry key="..\:/Users/AlumnoM/AndroidStudioProjects/1App/app/src/main/res/layout/entrega_main.xml" value="0.5" />
         <entry key="..\:/Users/AlumnoM/AndroidStudioProjects/1App/app/src/main/res/layout/popup.xml" value="0.3300925925925926" />
+        <entry key="..\:/Users/AlumnoM/AndroidStudioProjects/1App/app/src/main/res/layout/prime_video.xml" value="0.32971014492753625" />
       </map>
     </option>
   </component>
